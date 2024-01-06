@@ -1,0 +1,42 @@
+.card-post{
+  width: 600px;
+  height: auto;
+  background-color: rgb(237, 237, 237);
+
+  padding: 10px;
+  border-radius: 20px;
+  margin: 20px;  
+  
+  
+}
+
+.all-buttons{
+  display: flex;
+  justify-content: space-around;
+  padding-right: 10px 0;
+  color: rgb(76, 74, 74);
+  
+}
+
+
+.profile-header{
+  display: flex;
+  justify-content: start;
+  margin: 20px;
+
+}
+
+.profile-image{
+  background-image: url(./assets/waqas\ profile.jpg);
+  border-radius: 50%;
+  background-position: center;
+  width: 75px;
+  height: auto;
+}
+
+.facebook-post{
+  display: flex;
+  justify-content: center;
+
+  
+}
